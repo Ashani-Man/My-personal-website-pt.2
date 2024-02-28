@@ -46,7 +46,11 @@ body{
     width: 100%;
     border-radius: 50%;
     border: 30px dotted;
-    position: ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .Sticky{
