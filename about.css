@@ -1,0 +1,13 @@
+#Interest{
+    background-color: azure;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    left: 2%;
+    justify-content: center;
+    align-items: center;
+    position:  static;
+    border-radius: 50%;
+    color: black;
+
+}
