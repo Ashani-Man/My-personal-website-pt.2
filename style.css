@@ -1,19 +1,44 @@
 
 body{
-    background-color: blueviolet;
+    background-color:blanchedalmond;
+
     
     
 }
+main{
+    display:flex;
+    justify-content: center;
+    align-content: center;
 
+}
 
-.Touch{
-    background-color: aliceblue;
-    height: 20px;
-    width: 70px;
-    border-radius: 50px;
+nav{
     
+    width: 500px ;
+    height: 150px;
+    display: grid;
+    justify-content: flex-start;
+    align-items:center;
+    font-size: large;
+    
+
     
 }
+
+nav > a{
+    color: #0014f0;
+    text-decoration:none;
+    
+}
+a:hover{
+    color: crimson;
+    font-size: 150%;
+    text-decoration: none;
+
+
+
+}
+
 .bbb{
 
     height: 280px;
@@ -112,4 +137,3 @@ body{
     
 }
 
-s
