@@ -11,6 +11,7 @@
     font-size: larger;
     font-style: italic;
     margin: 5;
+    z-index:auto;
 
 }
 

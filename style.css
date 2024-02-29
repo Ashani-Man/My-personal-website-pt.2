@@ -1,9 +1,6 @@
 
 body{
-    background-color:blanchedalmond;
-
-    
-    
+    background-color:blanchedalmond;   
 }
 main {
    width: 100%;
@@ -18,11 +15,8 @@ main {
 
 main > img{
     border-radius: 20%;
+} 
 
-
-
-
-}                
 nav{
     
     width: 500px ;
@@ -30,10 +24,7 @@ nav{
     display: flex;
     justify-content:space-around;
     align-items:center;
-    font-size: large;
-    
-
-    
+    font-size: large;  
 }
 
 nav > a{
@@ -41,32 +32,13 @@ nav > a{
     text-decoration:none;
     
 }
+
 a:hover{
     color: crimson;
     font-size: 150%;
     text-decoration: none;
-
-
-
 }
-
-.bbb{
-
-    height: 280px;
-    width: 600px;
-    color: aliceblue;
-    background-color: aliceblue;
-    border-radius: 0px;
-    position: absolute;
-    top: 99 ;
-    left: 50%;
-    border-radius: 100%;
     
-    
-    
-    
-   
-}
 main > p{
     height: 100%;
     width: 100%;
@@ -76,12 +48,9 @@ main > p{
     border-radius: 20%;
 }
 
-
 .quote{
     background-color: aqua;
     position: fixed;
-
-
 }
 
 .about{
@@ -93,8 +62,7 @@ main > p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;    
 }
 
 .Sticky{
@@ -104,11 +72,7 @@ main > p{
   border-radius: 10%;
   margin: 7;
   width: 30%;
-  
-  
-
 }
-
 
 .img{
     border-radius: 50px;
@@ -116,16 +80,7 @@ main > p{
     width: 40%;
     position: fixed;
     border: 20px solid;
-    margin: 10px;
-    
-    
-}
-
-.stat{
-   font-size: larger;
-   color: rgb(34, 12, 232);
-
-
+    margin: 10px;    
 }
 
 .Mission{
@@ -135,10 +90,7 @@ main > p{
     font-style: oblique;
     position: sticky;
     top: 50;
-
- 
-    
-    
+   
 }
 
 .Mission2{
@@ -148,16 +100,9 @@ main > p{
     font-style: oblique;
     position: sticky;
     top: 550;
-
- 
-    
     
 }
 
 #Message{
     height: 5cm;
-}
-
-#submit{
-    
 }
